@@ -1,0 +1,20 @@
+*{
+    font-weight: bolder;
+    align-content: center;
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+    border: 6px purple dashed;
+   
+}
+form{
+    color:#f090a5;
+    text-align: center;
+    border: 3px pink solid;
+    display: inline-block;
+    padding: 10px;
+    
+
+}
